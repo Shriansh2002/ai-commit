@@ -164,10 +164,6 @@ index 1a2b3c4..5d6e7f8 100644
 feat(user): add password reset functionality
 ```
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/ai-commit/issues).
-
 ## 📄 License
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
