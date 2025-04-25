@@ -1,0 +1,21 @@
+{
+	"name": "ai-commit",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"ai-commit": "node bin/index.js"
+	},
+	"bin": {
+		"ai-commit": "./bin/index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT",
+	"description": "",
+	"dependencies": {
+		"@google/genai": "^0.10.0",
+		"clipboardy": "^2.3.0",
+		"commander": "^13.1.0",
+		"dotenv": "^16.5.0"
+	}
+}

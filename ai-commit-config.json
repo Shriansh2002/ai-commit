@@ -1,0 +1,5 @@
+{
+	"types": ["feat", "fix", "docs", "chore", "refactor", "style", "test"],
+	"maxLength": 72,
+	"format": "Follow the format: \"type(scope): summary\".\nUse present tense, imperative mood.\nNo extra explanations."
+}
